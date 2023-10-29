@@ -1,4 +1,4 @@
-# Hi, I am DevWave <br> <br>
+# Hi, I am DevWave
 ![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Framo-d%25C3%25B6ring-583ab618a%2F) 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### About
