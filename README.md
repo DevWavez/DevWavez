@@ -1,5 +1,5 @@
 ### Dev Wave
-[![Linkedin Badge](https://img.shields.io/badge/-Isha_Gupta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ramo-d%C3%B6ring-583ab618a/)]([https://www.linkedin.com/in/ishagupta20/](https://www.linkedin.com/in/ramo-d%C3%B6ring-583ab618a/)) 
+[![Linkedin Badge](https://img.shields.io/badge/-Ramo_Döring-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ramo-d%C3%B6ring-583ab618a/)]([https://www.linkedin.com/in/ishagupta20/](https://www.linkedin.com/in/ramo-d%C3%B6ring-583ab618a/)) 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### About
 
