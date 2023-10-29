@@ -5,7 +5,7 @@
 
 -  **self taught :** Frontend Development :zap: | ambition to fullstack :fire:	
 -  **Hobbies :** programming & Music :headphones:
--  **Fact :** First solve the problem, then write the code :heart: 
+-  **Fact :** programming is for people who can handle successes and failures every 2 hours :heart: 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
