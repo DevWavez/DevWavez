@@ -26,7 +26,7 @@
 
 #### Database
 
-![MongoDB](https://img.shields.io/badge/Mongo_DB-47A248?style=for-the-badge&logo=mongoDB&logoColor=white)
+![MongoDB](https://img.shields.io/badge/Mongo_DB-47A248?style=for-the-badge&logo=mongoDB&labelColor=black)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=black&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Framo-d%25C3%25B6ring-583ab618a%2F)
 
 #### Design
