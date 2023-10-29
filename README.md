@@ -3,7 +3,7 @@
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### About
 
--  **self taught :** Full-Stack Development :zap: | Open-Source :fire:	
+-  **self taught :** Frontend Development :zap: | ambition to fullstack :fire:	
 -  **Hobbies :** Articles & Music :headphones:
 -  **Fact :** First solve the problem, then write the code :heart: 
 
