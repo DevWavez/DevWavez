@@ -4,7 +4,7 @@
 ### About
 
 -  **self taught :** Frontend Development :zap: | ambition to fullstack :fire:	
--  **Hobbies :** Articles & Music :headphones:
+-  **Hobbies :** programming & Music :headphones:
 -  **Fact :** First solve the problem, then write the code :heart: 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
