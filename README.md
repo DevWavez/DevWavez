@@ -20,6 +20,7 @@
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&labelColor=black)
 
 #### Framework
+![Next.js](https://img.shields.io/badge/Next.Js-000000?style=for-the-badge&logo=next.js&labelColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&labelColor=black)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&labelColor=black)
 ![Nodejs](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&labelColor=black)
