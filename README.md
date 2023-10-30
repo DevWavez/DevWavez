@@ -1,5 +1,5 @@
 # Hi, I am DevWave
-![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&labelColor=black&link=http%3A%2F%2Fbit.ly%2F3tSLFNs) 
+![Linkedin Badge](https://img.shields.io/badge/Ramo_D%C3%B6ring-0A66C2?style=for-the-badge&logo=linkedin&labelColor=black&link=http%3A%2F%2Fbit.ly%2F3tSLFNs) 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### About
 
